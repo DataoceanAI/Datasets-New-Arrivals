@@ -1,17 +1,17 @@
-#Title
+# Title
 Singapore English Speech Recognition Corpus
 
-#Description
+# Description
 This dataset is Singaporean English Dialogue, applicable for dual channel for mobile and online calls with sentence segmentation data. It covers Telemarketing Customer Service, Financial Consumption, Common Daily Life Language, Social Hotspots, Travel Shopping, Sports Entertainment, Education Learning, Technology Digital Games, where Telemarketing Customer Service and Financial Consumption account for no less than 30%.           
 
-#SKU
+# SKU
 King-ASR-189-1
 
-#Duration
+# Duration
 200 hours
 
-#Recording Device
+# Recording Device
 Mobile
             
-#URL
+# URL
 https://dataoceanai.com/datasets/asr/singapore-english-speech-recognition-corpus/
