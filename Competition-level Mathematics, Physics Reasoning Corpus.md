@@ -16,5 +16,5 @@ Question ID/Question Stem (Full text/content) /Subject/Question Type (Multiple C
 # Description
 This dataset is for AI models to train to learn to extract critical information from problem statements and methodically derive solutions. This type of dataset proves particularly valuable for developing automated question-answering systems and AI applications requiring sophisticated reasoning capabilities.
 
-# View Dataset
+# URL
 https://dataoceanai.com/datasets/nlp/competition-level-mathematics-physics-reasoning-corpus/
